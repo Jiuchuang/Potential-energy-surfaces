@@ -1,0 +1,3 @@
+# Potential-energy-surfaces
+## LiH2_PES_ 2A'.f
+LiH2 SURFACE EVALUATION ROUTINES FOR THE GROUND STATE 2A' .（Phys.Chem.Chem.Phys.,2015,17,11732-11739）
