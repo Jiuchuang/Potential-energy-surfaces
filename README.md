@@ -13,4 +13,4 @@ SH<sub>2</sub> surface evaluation routines for the ground state <sup>1</sup>A'.
 
 [Scientific Reports 2015, 5, 14594](https://www.nature.com/articles/srep14594)
 
-![image](https://www.nature.com/articles/srep14594/figures/2)
+![image](https://media.springernature.com/m685/nature-assets/srep/2015/151005/srep14594/images/srep14594-f2.jpg)
